@@ -1,0 +1,63 @@
+--------Header section --------------
+# Menus
+Projects
+Technologies
+About me
+
+--------banner section--------------
+# heading
+
+
+
+--------Projects--------------
+-> Project 1
+# heading
+Furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online furniture store. HTML5, CSS3 (SCSS)
+
+-> Project 2
+# heading
+Designer furniture store landing page
+# sub heading
+Responsive HTML/CSS layout for online store of designer furniture. HTML5, CSS3 (SCSS)
+
+-> Project 3
+# heading
+Landing page for front-end developer
+# sub heading
+Responsive HTML/CSS layout for landing page for front-end developer. HTML5, CSS3 (SCSS)
+
+-> Project 4
+# heading
+Website redesign for The Venus project
+# sub heading
+Responsive HTML/CSS layout for The Venus project. HTML5, CSS3 (SCSS)
+
+--------Technologies--------------
+-> Lists of items
+Html
+CSS, Sass & Bootstrap
+JavaScript, TypeScript, JQuery
+UI design in Figma
+Angular
+React
+React Native
+
+--------Additional technologies and skills--------------
+-> Lists of items
+Git
+Wordpress
+Teamwork
+Quick learning
+Engagement
+B2 english
+RWD
+
+--------About me--------------
+
+
+ Hello, my name is Joshua King, I am a junior web developer with strong problem-solving skills and excellent communication abilities. 
+ I graduated UTA (University of Texas at Austin) and have experience in web development for approximately 1 year and passionate about creating user-friendly and visually appealing websites. 
+ I am self-motivated and a team player to help acheive goals and beyond. 
+ Lastly adept at staying up-to-date with the latest web development trends and technologies, and excited to contribute to a dynamic team and deliver high-quality web solutions.
